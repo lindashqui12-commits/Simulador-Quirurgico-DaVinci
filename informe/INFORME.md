@@ -1,12 +1,12 @@
 # INFORME DE MINI PROYECTO — SIMULADOR QUIRÚRGICO DA VINCI
 
 ## Carátula
-**Universidad:** [NOMBRE DE LA UNIVERSIDAD]  
+**Universidad:** Mariano Gálvez de Guatemala  
 **Facultad / carrera:** Ingeniería Biomédica  
-**Curso:** [NOMBRE DEL CURSO]  
+**Curso:** Sistemas Inteligentes 
 **Proyecto:** Simulador de sutura asistida por dos brazos robóticos tipo Da Vinci  
-**Autor(es):** [NOMBRE(S)]  
-**Docente:** [NOMBRE]  
+**Autor(es):** Linda Pantaleón 
+**Docente:** Edgar 
 **Lugar y fecha:** Guatemala, noviembre de 2026
 
 ## Introducción
