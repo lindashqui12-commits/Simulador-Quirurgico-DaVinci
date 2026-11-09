@@ -33,3 +33,5 @@ Se desarrolló un prototipo académico de simulador de sutura con dos brazos rob
 <img width="1890" height="990" alt="Captura de pantalla 2026-11-08 214612" src="https://github.com/user-attachments/assets/24f8a8d5-91c8-4985-975f-310a7880ae58" />
 
 - Enlace del video demostrativo de 3–5 minutos.
+https://drive.google.com/file/d/1gx-dMIIXHLje1BSf7FJHA89UkUd9E0_G/view?usp=drive_link
+
