@@ -21,8 +21,15 @@ Se desarrolló un prototipo académico de simulador de sutura con dos brazos rob
 3. La representación de sutura y el agarre de aguja son simulados, por lo que no sustituyen la física de tejido ni la validación clínica.
 4. Para una versión posterior se recomienda mejorar la estabilidad dinámica, el renderizado de las cámaras, la restauración HOME y la aceptación de avisos desde el mando.
 
-## Evidencias por insertar
+## Evidencias 
 - Captura de la GUI y registro ficticio.
+<img width="536" height="382" alt="Captura de pantalla 2026-11-08 213718" src="https://github.com/user-attachments/assets/e796a6b2-f632-4615-bc93-49530350abda" />
+
 - Captura del control F710 y escena CoppeliaSim.
+<img width="1807" height="1095" alt="Captura de pantalla 2026-11-08 213732" src="https://github.com/user-attachments/assets/ccdb9479-787d-43d1-b868-629649df881a" />
+
 - Captura PNG de sutura y DICOM recibido en Orthanc.
+<img width="1892" height="842" alt="Captura de pantalla 2026-11-08 210937" src="https://github.com/user-attachments/assets/2b6eb665-e875-4874-bff9-70b7ae81e639" />
+<img width="1890" height="990" alt="Captura de pantalla 2026-11-08 214612" src="https://github.com/user-attachments/assets/24f8a8d5-91c8-4985-975f-310a7880ae58" />
+
 - Enlace del video demostrativo de 3–5 minutos.
