@@ -1,0 +1,8 @@
+numpy
+pygame==2.6.1
+PySide6
+coppeliasim-zmqremoteapi-client
+pyzmq
+cbor
+pydicom
+pyinstaller

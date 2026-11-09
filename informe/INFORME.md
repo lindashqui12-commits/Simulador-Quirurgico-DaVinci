@@ -1,0 +1,28 @@
+# INFORME DE MINI PROYECTO — SIMULADOR QUIRÚRGICO DA VINCI
+
+## Carátula
+**Universidad:** [NOMBRE DE LA UNIVERSIDAD]  
+**Facultad / carrera:** Ingeniería Biomédica  
+**Curso:** [NOMBRE DEL CURSO]  
+**Proyecto:** Simulador de sutura asistida por dos brazos robóticos tipo Da Vinci  
+**Autor(es):** [NOMBRE(S)]  
+**Docente:** [NOMBRE]  
+**Lugar y fecha:** Guatemala, noviembre de 2026
+
+## Introducción
+La simulación quirúrgica es una herramienta de aprendizaje para explorar la coordinación de instrumentos robóticos y el seguimiento de procedimientos guiados. Este proyecto integra una escena virtual de dos brazos PSM en CoppeliaSim, una aplicación gráfica desarrollada en Python, un control físico Logitech F710 y un servidor Orthanc para almacenar imágenes de la práctica en formato DICOM.
+
+## Resumen
+Se desarrolló un prototipo académico de simulador de sutura con dos brazos robóticos virtuales y una interfaz PySide6. El sistema utiliza la API remota ZMQ de CoppeliaSim para controlar articulaciones y consultar posiciones, mientras que pygame recibe entradas del Logitech F710. La práctica incorpora una aguja virtual, objetivos de sutura, registro de paciente ficticio y captura de imágenes DICOM Secondary Capture enviadas a Orthanc por HTTP. Se logró el control de los brazos mediante el mando y la recuperación de la escena; permanecen limitaciones en la dinámica durante la simulación, la visualización simultánea de cámaras y la gestión de avisos mediante Start. El sistema no reproduce sutura física real y se destina únicamente a demostración académica.
+
+## Conclusiones
+1. La combinación de CoppeliaSim, Python y el Logitech F710 permite demostrar control interactivo de dos instrumentos quirúrgicos virtuales.
+2. La exportación DICOM y la integración con Orthanc muestran un flujo de interoperabilidad entre simulación e infraestructura PACS, pendiente de documentar con evidencia final del estudio recibido.
+3. La representación de sutura y el agarre de aguja son simulados, por lo que no sustituyen la física de tejido ni la validación clínica.
+4. Para una versión posterior se recomienda mejorar la estabilidad dinámica, el renderizado de las cámaras, la restauración HOME y la aceptación de avisos desde el mando.
+
+## Evidencias por insertar
+- Captura de la GUI y registro ficticio.
+- Captura del control F710 y escena CoppeliaSim.
+- Captura PNG de sutura y DICOM recibido en Orthanc.
+- Enlace del video demostrativo de 3–5 minutos.

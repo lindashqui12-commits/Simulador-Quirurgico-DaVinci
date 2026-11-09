@@ -1,0 +1,1 @@
+Colocar aquí el archivo de escena `.ttt` utilizado en CoppeliaSim, **solo si se dispone de derechos para redistribuirlo**. Si deriva de un repositorio de terceros, documentar URL, autor, licencia y cambios propios. El repositorio se entrega sin escena porque el archivo no fue proporcionado en esta conversación.
