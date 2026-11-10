@@ -44,6 +44,8 @@ Se reconoce al autor del repositorio original por proporcionar la base de simula
 
 El desarrollo académico presentado corresponde a las modificaciones, adaptaciones e integraciones realizadas sobre dicha base. Los componentes originales conservan la atribución y las condiciones de licencia que les correspondan.
 
+https://github.com/marcofer/dynamic-dvrk-coppeliasim-simulator
+
 ## 7. Comunicación y control
 El cliente Python usa la API remota ZMQ para leer y modificar estados articulares, obtener posiciones y leer imágenes de sensores. El control cartesiano utiliza una aproximación numérica del Jacobiano para mover la punta en incrementos. Las articulaciones dinámicas J1/J2 presentaron inestabilidad al ejecutar la simulación; por ello se priorizó control con simulación detenida. La sutura se representa visualmente y la proximidad del instrumento al objetivo determina la validación; no hay modelo de penetración de tejido.
 
