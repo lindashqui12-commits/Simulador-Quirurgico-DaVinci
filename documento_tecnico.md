@@ -4,7 +4,7 @@
 Desarrollar un entorno académico de entrenamiento en sutura asistida por dos brazos robóticos PSM con interfaz de usuario, mando físico, cámaras virtuales y registro de imágenes DICOM en un PACS.
 
 ## 2. Arquitectura
-`Logitech F710 → pygame → PySide6 / controlador XYZ (Python) → ZMQ Remote API (puerto 41000) → CoppeliaSim → sensores de visión → PNG / DICOM Secondary Capture → Orthanc REST /instances`
+`Logitech F710 → pygame → PySide6 / controlador XYZ (Python) → ZMQ Remote API (puerto 23000) → CoppeliaSim → sensores de visión → PNG / DICOM Secondary Capture → Orthanc REST /instances`
 
 ## 3. Entorno
 - Windows 11; Python 3.12; PySide6; pygame 2.6.1; NumPy; `coppeliasim-zmqremoteapi-client`.
