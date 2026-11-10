@@ -1,7 +1,5 @@
 # Guía de usuario — Simulador Da Vinci
 
-# Guía de instalación y puesta en marcha
-
 ## 1. Introducción
 
 Esta guía describe el procedimiento para instalar y ejecutar el **Simulador Quirúrgico Da Vinci**, desarrollado en Python y CoppeliaSim.
