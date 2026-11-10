@@ -230,7 +230,7 @@ Las imágenes DICOM generadas corresponden a capturas de un entorno simulado y d
 
 ______________________________________________________________________________________________
 
-## Preparación
+# Preparación
 1. Conectar el receptor USB del Logitech F710; selector en **X**. Verificar con `Win + R` → `joy.cpl`.
 2. Abrir CoppeliaSim y cargar la escena de los dos PSM con paciente, tejido y aguja.
 3. Abrir Orthanc en `http://localhost:8042` para recibir las imágenes DICOM.
