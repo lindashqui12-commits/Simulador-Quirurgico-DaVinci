@@ -151,10 +151,6 @@ cd "$HOME\Documents\Simulador-Quirurgico-DaVinci"
 
 ### Paso 2. Ejecutar la aplicación
 
-```powershell
-.\.venv\Scripts\python.exe .\src\simulador_da_vinci.py
-```
-
 Este comando inicia el código principal documentado del simulador.
 
 Para ejecutar la variante preparada para la aplicación de Windows, se puede utilizar:
@@ -162,8 +158,6 @@ Para ejecutar la variante preparada para la aplicación de Windows, se puede uti
 ```powershell
 .\.venv\Scripts\python.exe .\src\simulador_da_vinci_app.py
 ```
-
-**Nota:** utilizar la versión del archivo que haya sido validada como definitiva para la demostración.
 
 ### Paso 3. Registrar un paciente
 
