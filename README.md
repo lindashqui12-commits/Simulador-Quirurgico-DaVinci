@@ -35,9 +35,6 @@ Abrir primero CoppeliaSim y cargar **la escena del proyecto** (archivo no inclui
 ## Compilar para Windows
 Con el proyecto en una carpeta que contenga `.venv`, copiar `scripts/CREAR_APP_DAVINCI.bat` a la raíz junto con `simulador_da_vinci_app.py` (desde `src/`) y ejecutar el BAT. El resultado esperado es `dist/DaVinci_Simulador/DaVinci_Simulador.exe`. La compilación requiere Windows y PyInstaller.
 
-## Evidencia pendiente
-Agregar el video grabado de 3–5 minutos y la escena original autorizada. Probar envío real a Orthanc en la computadora del proyecto y documentar capturas de pantalla. **No se ha publicado este repositorio automáticamente.**
-
 ## Licencias y atribuciones
 La licencia MIT propuesta cubre únicamente el código propio del autor. La escena dVRK/CoppeliaSim y cualquier material de terceros mantienen sus respectivas licencias y requieren atribución y permiso de redistribución.
 
